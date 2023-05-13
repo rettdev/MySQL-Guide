@@ -31,7 +31,7 @@ Instruções passo a passo para instalar e configurar o MySQL em diferentes sist
 
 - **Modelagem de Banco de Dados**: Orientações sobre como projetar e criar estruturas de banco de dados eficientes usando o MySQL, incluindo definição de tabelas, chaves primárias e relacionamentos. Clique aqui: [Modelagem](./modelagem.md)
 
-- **Consultas Avançadas**: Exploração de consultas SQL mais complexas, como JOINs, subconsultas, cláusulas GROUP BY e HAVING, além do uso de funções de agregação. Clique aqui: [Consultas avançadas](./consultas_avancadas.md)
+- **Consultas Avançadas**: Exploração de consultas SQL mais complexas, como JOINs, subconsultas, cláusulas GROUP BY e HAVING, além do uso de funções de agregação. Clique aqui: [Consultas avançadas](./consultas_avançadas.md)
 
 - **Indexação e Otimização**: Estratégias para otimizar consultas e melhorar o desempenho do banco de dados, incluindo técnicas de indexação e ajuste de configurações. Clique aqui: [Indexação e Otimização](./index_otimi.md)
 

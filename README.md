@@ -30,9 +30,11 @@ Neste guia, nos concentraremos no uso do MySQL e aprenderemos sobre os recursos 
 
 Este repositório contém uma variedade de tópicos relacionados ao MySQL, incluindo:
 
-- **Instalação e Configuração**: Instruções passo a passo para instalar e configurar o MySQL em diferentes sistemas operacionais.
+- **Instalação e Configuração**:
 
-(./instalation.md)
+Instruções passo a passo para instalar e configurar o MySQL em diferentes sistemas operacionais. Clique aqui: [INSTALAÇÃO](./INSTALAÇÃO)
+
+
 
 - **Comandos Básicos do MySQL**: Uma introdução aos comandos SQL fundamentais, como SELECT, INSERT, UPDATE e DELETE, juntamente com exemplos de uso.
 

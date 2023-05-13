@@ -1,10 +1,4 @@
 # MySQL-Guide
-Um repositório abrangente com tutoriais, exemplos e dicas sobre o MySQL
-
-
-
-
-
 
 Este é um repositório abrangente que contém tutoriais, exemplos e dicas sobre o MySQL, um sistema de gerenciamento de banco de dados relacional (RDBMS). Aqui você encontrará recursos para ajudá-lo a aprender, utilizar e aprofundar seus conhecimentos sobre o MySQL.
 
@@ -31,24 +25,19 @@ Neste guia, nos concentraremos no uso do MySQL e aprenderemos sobre os recursos 
 Este repositório contém uma variedade de tópicos relacionados ao MySQL, incluindo:
 
 - **Instalação e Configuração**:
+Instruções passo a passo para instalar e configurar o MySQL em diferentes sistemas operacionais. Clique aqui: [Instalação](./instalação.md)
 
-Instruções passo a passo para instalar e configurar o MySQL em diferentes sistemas operacionais. Clique aqui: [INSTALAÇÃO](./INSTALAÇÃO)
+- **Comandos Básicos do MySQL**: Uma introdução aos comandos SQL fundamentais, como SELECT, INSERT, UPDATE e DELETE, juntamente com exemplos de uso. Clique aqui: [Comandos básicos](./comandos.md)
 
+- **Modelagem de Banco de Dados**: Orientações sobre como projetar e criar estruturas de banco de dados eficientes usando o MySQL, incluindo definição de tabelas, chaves primárias e relacionamentos. Clique aqui: [Modelagem](./modelagem.md)
 
+- **Consultas Avançadas**: Exploração de consultas SQL mais complexas, como JOINs, subconsultas, cláusulas GROUP BY e HAVING, além do uso de funções de agregação. Clique aqui: [Consultas avançadas](./consultas_avancadas.md)
 
-- **Comandos Básicos do MySQL**: Uma introdução aos comandos SQL fundamentais, como SELECT, INSERT, UPDATE e DELETE, juntamente com exemplos de uso.
+- **Indexação e Otimização**: Estratégias para otimizar consultas e melhorar o desempenho do banco de dados, incluindo técnicas de indexação e ajuste de configurações. Clique aqui: [Indexação e Otimização](./index_otimi.md)
 
-- **Modelagem de Banco de Dados**: Orientações sobre como projetar e criar estruturas de banco de dados eficientes usando o MySQL, incluindo definição de tabelas, chaves primárias e relacionamentos.
+- **Segurança e Gerenciamento de Usuários**: Práticas recomendadas para garantir a segurança do MySQL, incluindo configuração de permissões, gerenciamento de usuários e autenticação. Clique aqui: [Segurança](./segurança.md)
 
-- **Consultas Avançadas**: Exploração de consultas SQL mais complexas, como JOINs, subconsultas, cláusulas GROUP BY e HAVING, além do uso de funções de agregação.
-
-- **Indexação e Otimização**: Estratégias para otimizar consultas e melhorar o desempenho do banco de dados, incluindo técnicas de indexação e ajuste de configurações.
-
-- **Segurança e Gerenciamento de Usuários**: Práticas recomendadas para garantir a segurança do MySQL, incluindo configuração de permissões, gerenciamento de usuários e autenticação.
-
-- **Exemplos de Código**: Exemplos práticos em várias linguagens de programação que demonstram como interagir com o MySQL usando bibliotecas e drivers populares.
-
-
+- **Exemplos de Código**: Exemplos práticos em várias linguagens de programação que demonstram como interagir com o MySQL usando bibliotecas e drivers populares. Clique aqui: [Exemplos](./exemplos.md)
 
 ## Licença
 
@@ -60,10 +49,7 @@ Aqui estão alguns recursos adicionais que podem ajudá-lo a aprender mais sobre
 
 - [Documentação Oficial do MySQL](https://dev.mysql.com/doc/): A documentação oficial é uma fonte valiosa de informações sobre o MySQL, incluindo guias, tutoriais e referências.
 
-- [MySQL Community Forums]
-(https://forums.mysql.com/): Os fóruns da comunidade MySQL são um ótimo lugar para fazer perguntas, obter suporte e compartilhar conhecimentos com outros usuários do MySQL.
-
- 
+- [MySQL Community Forums](https://forums.mysql.com/): Os fóruns da comunidade MySQL são um ótimo lugar para fazer perguntas, obter suporte e compartilhar conhecimentos com outros usuários do MySQL.
 
 ## Como Contribuir
 
@@ -75,9 +61,6 @@ Se você deseja contribuir para o repositório MySQL Guide, siga as etapas abaix
 4. Faça o commit das alterações com uma mensagem descritiva: `git commit -m "Minha contribuição: Descrição das alterações"`.
 5. Envie suas alterações para o repositório remoto: `git push origin minha-contribuicao`.
 6. Abra um pull request no repositório original, descrevendo suas alterações em detalhes.
-
-
-
 
 
 Esperamos que este guia do MySQL seja útil para você! Se tiver alguma dúvida, sinta-se à vontade para abrir uma questão ou entrar em contato. Aproveite sua jornada de aprendizado do MySQL!

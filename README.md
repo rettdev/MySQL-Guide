@@ -39,10 +39,6 @@ Instruções passo a passo para instalar e configurar o MySQL em diferentes sist
 
 - **Exemplos de Código**: Exemplos práticos em várias linguagens de programação que demonstram como interagir com o MySQL usando bibliotecas e drivers populares. Clique aqui: [Exemplos](./exemplos.md)
 
-## Licença
-
-Este repositório é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais informações.
-
 ## Recursos Adicionais
 
 Aqui estão alguns recursos adicionais que podem ajudá-lo a aprender mais sobre o MySQL:
